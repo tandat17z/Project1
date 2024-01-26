@@ -9,7 +9,7 @@ import javafx.stage.Stage;
 import java.awt.Desktop;
 import java.net.URI;
 
-public class __MainApp extends Application {
+public class __MainApp_ extends Application {
 
     @Override
     public void start(Stage primaryStage) {
